@@ -1,8 +1,4 @@
 ### Here is what I'm working on! 👋
-### Wellcome to my Github profile
-<!--
-**SangTran-127/SangTran-127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently studying at FPT university
