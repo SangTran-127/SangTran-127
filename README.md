@@ -1,7 +1,7 @@
 ### Here is what I'm working on! 👋
 Here are some ideas to get you started:
 ### Spotify Playing 🎧
-[![Spotify](https://sangtran-127.vercel.app/api/spotify)](https://open.spotify.com/user/31dcg2zvtprcwumfkppqxlarto7e)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31dcg2zvtprcwumfkppqxlarto7e)
 - 🔭 I’m currently studying at FPT university
 - 🌱 I’m currently learning Javascript
 - 👯 I’m looking to collaborate on ...
