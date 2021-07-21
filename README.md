@@ -1,5 +1,4 @@
-<h1 align="center">welcome to my profile I'm Sang</h1>
-<h3 align="center">a landing page website created by piedteam for learning purposes</h3>
+<h1 align="center">Hi! I'm Sang</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sangtran-127&label=Profile%20views&color=0e75b6&style=flat" alt="sangtran-127" /> </p>
 
