@@ -1,6 +1,5 @@
 <h1 align="center">Hi! I'm Sang</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sangtran-127&label=Profile%20views&color=0e75b6&style=flat" alt="sangtran-127" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sang_sngtrn20" target="blank"><img src="https://img.shields.io/twitter/follow/sang_sngtrn20?logo=twitter&style=for-the-badge" alt="sang_sngtrn20" /></a> </p>
 
