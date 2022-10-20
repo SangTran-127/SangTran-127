@@ -1,8 +1,5 @@
 <h1 align="center">Hi! I'm Sang</h1>
 
-
-<p align="left"> <a href="https://twitter.com/sang_sngtrn20" target="blank"><img src="https://img.shields.io/twitter/follow/sang_sngtrn20?logo=twitter&style=for-the-badge" alt="sang_sngtrn20" /></a> </p>
-
 - 🌱 I’m currently learning **JS, web development**
 
 - 📫 How to reach me **tranquangsang12.7@gmail.com**
@@ -11,7 +8,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sang_sngtrn20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sang_sngtrn20" height="30" width="40" /></a>
 <a href="https://fb.com/sangtqs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sangtqs" height="30" width="40" /></a>
 <a href="https://instagram.com/sang._.trn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sang._.trn" height="30" width="40" /></a>
 <a href="https://discord.gg/MRYR622aSq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="MRYR622aSq" height="30" width="40" /></a>
