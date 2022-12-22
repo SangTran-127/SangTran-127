@@ -101,7 +101,7 @@
 <br/>  
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sangtran-127&show_icons=true&locale=en&layout=compact" alt="sangtran-127" /></p>
-
+<br/>
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=memhqbsld8z8vhsz1h1qm8kvi&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
 
 <br/>  
