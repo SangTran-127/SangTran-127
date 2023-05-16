@@ -97,7 +97,7 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=SangTran-127&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SangTran-127&hide_progress=false)](https://github.com/SangTran-127/SangTran-127)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SangTran-127&hide_progress=false)](https://github.com/SangTran-127/SangTran-127)
 
 <br/>  
 
