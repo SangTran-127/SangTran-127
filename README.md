@@ -1,8 +1,8 @@
-<!-- <div align="center"> -->
+<div align="center">
   
+![](./assets/dance.gif)
 
-![](./assets/gwen.jpg)
-> "Biết ông vạn không? "
+<div align="start">
 
 ### About Me 
 <img align="left" width="100" src="./assets/gwen1.png" style="margin-right: 20px;">
