@@ -10,8 +10,8 @@ I'm a software engineer and my hobbies are playing games, watching anime, readin
 <br><br>
 
 ## My Project
-
-- [Kompact]('https://') - TypeScript backend library for Express that leverages metadata programming using decorators.
+- [Kompact]('https://github.com/SangTran-127/kompact
+') - TypeScript backend library for Express that leverages metadata programming using decorators.
 
 ## My Organization 
 
