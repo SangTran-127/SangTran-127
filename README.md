@@ -1,7 +1,3 @@
-<div align="center">
-  
-![](./assets/dance.gif)
-
 <div align="start">
 
 ### About Me 
